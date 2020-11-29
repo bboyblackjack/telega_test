@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82259ad5-bc67-432f-83ec-eee53ff7c1c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kxsAvJ8W2evbHzvgZMAULLkia5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82259ad5-bc67-432f-83ec-eee53ff7c1c8" name="Default Changelist" comment="" />
+      <created>1606653436150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606653436150</updated>
+      <workItem from="1606653438401" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="294" key="NewPhpFileDialog" timestamp="1606653455461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="294" key="NewPhpFileDialog/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653455461" />
+    <state x="395" y="166" key="git4idea.merge.GitPullDialog" timestamp="1606653523868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653523868" />
+  </component>
+</project>
