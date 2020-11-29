@@ -1,3 +1,3 @@
 <?php
 
-echo "My hello!";
+echo "your ip is: " . $_SERVER['REMOTE_ADDR'];
