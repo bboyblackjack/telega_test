@@ -1,4 +1,4 @@
 <?php
 
 echo "your ip is: " . $_SERVER['REMOTE_ADDR'];
-echo 1;
+echo "TEST 2244";
