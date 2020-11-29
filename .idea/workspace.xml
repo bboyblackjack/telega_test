@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82259ad5-bc67-432f-83ec-eee53ff7c1c8" name="Default Changelist" comment="" />
+    <list default="true" id="82259ad5-bc67-432f-83ec-eee53ff7c1c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1kxsAvJ8W2evbHzvgZMAULLkia5" />
   <component name="ProjectViewState">
@@ -25,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,18 +54,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606653436150</updated>
-      <workItem from="1606653438401" duration="28000" />
+      <workItem from="1606653438401" duration="789000" />
     </task>
+    <task id="LOCAL-00001" summary="* first commit">
+      <created>1606654083291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606654083291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="* first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="110" y="28" width="1085" height="630" key="CommitChangelistDialog2" timestamp="1606654082633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="28" width="1085" height="630" key="CommitChangelistDialog2/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606654082633" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1606653910589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653910589" />
     <state x="518" y="294" key="NewPhpFileDialog" timestamp="1606653455461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="518" y="294" key="NewPhpFileDialog/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653455461" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1606653913377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653913377" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1606654174729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606654174729" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606653917470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1280.-256.1280.1024@0.0.1366.728" timestamp="1606653917470" />
     <state x="395" y="166" key="git4idea.merge.GitPullDialog" timestamp="1606653523868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
